@@ -121,5 +121,5 @@ Can be extended to AI oracles for real-time market data.
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
 # RESULT:
-
+Thus, to create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model is executed successfully.
 
